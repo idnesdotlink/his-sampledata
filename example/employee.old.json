@@ -1,0 +1,2545 @@
+[
+    {
+        "NO": 1,
+        "NO_KTP": "",
+        "NO_KK": "",
+        "NIP_LAMA": "19850824130018",
+        "NIP": "",
+        "NAMA": "Sartono",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "Griyan [RT:002, RW:001] Baturan, Colomadu, Karanganyar",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "24-Agustus-1985",
+        "TEMPAT_LAHIR": "Kabupaten Karanganyar",
+        "GOLONGAN_DARAH": "O+",
+        "BPJSKESEHATAN": {
+          "NO": "",
+          "JENIS": [
+            "PBI",
+            "PERUSAHAAN",
+            "MANDIRI",
+            "KELUARGA",
+            "PNS"
+          ]
+        },
+        "BPJSKETENAGAKERJAAN": {
+          "NO": "",
+          "JENIS // Bukan db informasional": [
+            "KECELEKAAN_KERJA",
+            "KEMATIAN",
+            "JAMINAN_HARI_TUA",
+            "JAMINAN_PENSIUN"
+          ]
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "HISTORY_PDDK": {
+
+        },
+        "PENDIDIKAN_SAAT_MELAMAR": {
+          "ALMAMATER": "STM Pancasila",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Teknik Mesin",
+          "JENJANG": "SMA/SMK/MA",
+          "TAHUN_TANGGAL_LULUS": "",
+          "NOIJAZAH": "",
+          "NILAI_IJAZAH": ""
+        },
+        "PDD": [
+          "S1",
+          "S2",
+          "S3",
+          "D4",
+          "D3",
+          "D1",
+          "SMA"
+        ],
+        "PENGALAMAN_PELATIHAN": [
+            "Latihan Peningkatan Kemampuan dasar Satpam (Polres Surakarta) 17 Oktober 2005-29 Oktober 2005",
+            "Security Guard (Hotel Novotel Solo) 01 Agustus 2008-13 September 2011"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijazah SMK Pancasila Surakarta",
+            "SK Latihan Kemampuan Dasar Satpam",
+            "SK Kerja Security Hotel Novotel",
+            "Foto Copy KTP",
+            "Kartu Tanda Anggota Satpam",
+            "Surat Ijin Membawa Borgol/Sajam",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Security",
+        "MEDIS": false,
+        "JABATAN": ["DIR", "MNG", "ADVISORY BOARD", "SUPERVISORY BOARD", "HEAD DEPARTMENT", "COORDINATOR", "STAFF"],
+        "MOBILE": [
+            "081393586669"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "04-November-2013",
+            "DIANGKAT": "04-November-2014"
+        }
+    },
+    {
+        "NO": 2,
+        "NIP_LAMA": "19950321140029",
+        "NIP": "",
+        "NAMA": "Merissa Fattih Fauzani",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Jl. Duku Baru No 24 Kerten, Laweyan, Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "21-Maret-1995",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "AB",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMK Negeri 6",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Administrasi Perkantoran",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Kerohanian Islam SMK Negeri 6 Surakarta",
+            "Mading SMK Negeri 6 Surakarta",
+            "OJT Sekretariat Redaksi PT.Aksara Solopos Januari-Februari 2012",
+            "Kursus Administrasi Bisnis BBLKI Surakarta (2013)",
+            "Kompetensi Keahlian Administrasi Perkantoran PT Nasional Label 21 Maret 2013"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah SMK Negeri 6 Surakarta",
+            "Transkrip Nilai Akhir (2012)/2013",
+            "Transkrip Nilai Standar Kompetensi Utama",
+            "SK BBLKI Surakarta",
+            "SK Hasil Ujian Nasional",
+            "Sertifikat Praktik Kerja Indistri PT Aksara Solopos",
+            "Sertifikat Kompetensi Keahlian Administrasi Perkantoran",
+            "SKCK",
+            "Foto Copy KTP",
+            "Sertifikat Administrasi Bisnis dari BBLKI",
+            "Sertifikat Kompetensi Adminitrasi Perkantoran dari Badan Nasional Sertifikasi Kompetensi",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Logistik",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "089672756228"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-April-2015"
+        }
+    },
+    {
+        "NO": 3,
+        "NIP_LAMA": "19910214140030",
+        "NIP": "",
+        "NAMA": "Annisa Fattih Nur Husna",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Jl. Duku Baru No 24 Kerten, Laweyan, Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "14-Februari-1991",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "B",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Akademi Perekam Medik dan Informatika Kesehatan Citra Medika",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Rekam Medis Informasi Kesehatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Praktek Lapangan RS PKU Muhammadiyah Surakarta (2011)",
+            "Teknik Praktek Lapangan RSUD Simo Boyolali (2011)",
+            "Teknik Praktek Lapangan Puskesmas Penumping (2012)",
+            "Praktek Lapangan RS PKU Muhammadiyah Surakarta (2012)",
+            "Magang RSJ Prof. Dr. Soerojo Magelang (2013)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah Akademi Perekam Medik dan Informatika Kesehatan Citra Medika Surakarta",
+            "Transkrip Akademik Akademi Perekam Medik dan Informatika Kesehatan Citra Medika Surakarta",
+            "Surat Keterangan Kuliah Praktek Kerja Nyata PKU MUhammadiyah",
+            "Surat Keterangan Pengurusan Surat Tanda Registrasi (STR)",
+            "Sertifikat Kegiatan Seminar PORMIKI",
+            "Sertifikat Seminar Karya Ilmiah Program Kreatifitas Mahasiswa",
+            "Sertifikat Seminar Peran Rekam Medis Dalam Era Kesehatan Berbasis Asuransi",
+            "Sertifikat Cerdas Cermat Rekam Medis UGM",
+            "Sertifikat Seminar Peningkatan Kompetensi Rekam Medis dalam Menyongsong Akreditasi JCI",
+            "Sertifikat PKL, RSJ Prof. Dr. Soerojo Magelang",
+            "Sertifikat LPAIA",
+            "Sertifikat Pelatihan Komputer oleh UPPM",
+            "SK Anggota Aktif dari PORMIK",
+            "Foto Copy KTP",
+            "Foto 4X6",
+            "Surat Keterangan Catatan Kepolisian (SKCK)",
+            "Surat Tanda Registrasi Rekam Medik",
+            "Surat Ijin Kerja Rekam Medik (PHCC)"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Rekam Medis",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            "083865540091"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-April-2015"
+        }
+    },
+    {
+        "NO": 4,
+        "NIP_LAMA": "19840828140032",
+        "NIP": "",
+        "NAMA": "Giyarto",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "28-Agustus-1984",
+        "TEMPAT_LAHIR": "",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMK Pancasila",
+          "KABUPATEN_KOTA": "Pracimantoro",
+          "PRODI": "Akuntansi",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Laundry Dept Personalia PT.TRINUNGGAL KOMARA 15 April 2008-15 Agustus 2012"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Surat Tanda Tamat Belajar SMK Pancasila Pracimantoro",
+            "SK Kerja PT TRINUNGGAL KOMARA",
+            "Foto Copy KTP",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Cleaning Service",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            "081383551288"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "02-Desember-2013",
+            "DIANGKAT": "02-Maret-2015"
+        }
+    },
+    {
+        "NO": 5,
+        "NIP_LAMA": "19941126140033",
+        "NIP": "",
+        "NAMA": "Iin Nugitasari",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Jl. Siwalan 35 [RT:02, RW:14], Kerten, Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "26-November-1994",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMK Batik 2",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Akuntansi",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah SMK Batik 2 Surakarta",
+            "Pengantar Kerja",
+            "SKCK",
+            "Foto Copy KTP",
+            "Foto 3X4"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Gizi dan Minimarket",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085712227395"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05 Januari",
+            "DIANGKAT": "05-April-2015"
+        }
+    },
+    {
+        "NO": 7,
+        "NIP_LAMA": "19880720140034",
+        "NIP": "",
+        "NAMA": "Denyu Kristina Ariningsih",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "20-Juli-1988",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "O",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMA Negeri 8",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "IPS",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Administrasi, CV. Papan Atas",
+            "Telemarketing, PT. Prima Computer"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Ijasah SMA Negeri 8 Surakarta",
+            "Sertifikat Komputer Berbasis Windows",
+            "Sertifikat Komputer Desain Grafis",
+            "Sertifikat Komputer MYOB Accounting"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Customer Service",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085728990393"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-April-2015"
+        }
+    },
+    {
+        "NO": 8,
+        "NIP_LAMA": "19871013130013",
+        "NIP": "",
+        "NAMA": "Widya Destiny Setiawanda",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Komp Permata Cimanggu Blok D No 10 [RT: 008, RW: 007], Kedung Badak, Tanah Sareal, Bogor",
+        "ALAMAT_TINGGAL": "Jl. Kepodang I no.1 Manahan, Solo",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "13-Oktober-1987",
+        "TEMPAT_LAHIR": "Kota Jakarta Barat",
+        "GOLONGAN_DARAH": "O",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Universitas Trisakti",
+          "KABUPATEN_KOTA": "Kota Jakarta Barat",
+          "PRODI": "Dokter",
+          "JENJANG": "Pendidikan Profesi 1"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Operator Baksos Sirkumsisi Dan Operasi Minor RSUP Fatmawati",
+            "Dokter Praktik Salsabila Medical Centre, Bogor",
+            "Dokter Umum Puskesmas Unit Swadana Kotabumi, Lampung Utara",
+            "Dokter Umum AA Skin Care"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah Pendidikan Dokter Universitas Trisakti (S1)",
+            "Ijasah Pendidikan Dokter Universitas Trisakti Profesi Dokter",
+            "Transkrip Nilai Pendidikan Dokter S1",
+            "Transkrip Nilai Pendidikan Dokter Profesi Dokter",
+            "Surat Tanda Registrasi Dokter Fak Kedokteran Universitas Trisakti 23 Januari 2018",
+            "Daftar Prestasi Akademik Fak Kedokteran Universitas Trisakti",
+            "Sertifikat Pelatihan Advanced Cardiac Life Support PERKI",
+            "Sertifikat Pelatihan Advanced Trauma Life Support IKABI",
+            "Sertifikat Pelatihan HiperkesDanKeselamatan Kerja",
+            "Sertifikat Diklat Sirkumsisi dan Ekstirpasi Lipoma",
+            "Sertifikat Solo ONCOLOGY Update 2013",
+            "Sertifikat The Role Dermatovenereology in Evironmental and Occupation Health",
+            "Sertifikat Simposium Efek Samping Obat dan Kosmetika",
+            "Sertifikat Sosialisasi TindakanDanPengetahuan Estetika Medis Dunia Kedokteran",
+            "Sertifikat Viral InfectionDanSkin Manifestation in Systemic Disease",
+            "Sertifikat SimposiumDanWorkshop All About Allergic Drug Eruption",
+            "Piagam Penghargaan sebagai Dokter Intership, Puskesmas",
+            "Sertifikat Current InfectiousDanTropical Disease Management",
+            "Sertifikat Simposium Ilmiah Kegawatdaruratan Neo-Maternal",
+            "Sertifikat Osteoporosis the sillent killer",
+            "Sertifikat Controversy of Cosmetic Legal Action in Medical Community",
+            "Sertifikat Katarak danKaitanya dengan Diabetes Militus",
+            "Sertifikat Penatalaksanaan Hepatitis B Secara Holistik",
+            "Foto Copy KTP",
+            "Foto 4X6",
+            "Surat Ijin Praktik (SIP) PHCC"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Dokter Umum",
+        "MEDIS": true,
+        "JABATAN": "Manajer Bina Program Kerjasama, Pengembangan Dan Penunjang",
+        "MOBILE": [
+            "082122134001",
+            "081280308424"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "23-November-2013",
+            "DIANGKAT": "05-Januari-2015"
+        }
+    },
+    {
+        "NO": 9,
+        "NIP_LAMA": "1984021713004",
+        "NIP": "",
+        "NAMA": "Wahyu Kurniawati",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Baran Wetan RT 001 RW 001 Guwokajen, Sawit, Boyolali",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "17-Februari-1984",
+        "TEMPAT_LAHIR": "Kabupaten Boyolali",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Akademi Keperawatan PKU Muhammadiyah",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Keperawatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah Keperawatan PKU Muhammadiyah Surakarta",
+            "Surat Tanda Registrasi Perawat (STR) 17 Februari 2017",
+            "SIP DINKES 01 Desember 2009",
+            "Surat Keterangan proses penerbitan STR/SIP",
+            "Surat Bukti Lapor dari DINKES",
+            "Surat Ijin Kerja Perawat (SIKP) PHCC 17 Februari 2017",
+            "Foto Copy KTP",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Keperawatan",
+        "MEDIS": true,
+        "JABATAN": "Ketua Tim",
+        "MOBILE": [
+            "085642226440"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-Januari-2014"
+        }
+    },
+    {
+        "NO": 10,
+        "NIP_LAMA": "1987030413005",
+        "NIP": "",
+        "NAMA": "Ratri Anugrah Kristini",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Perumahan Pelita [RT: 2, RW: 14], Popongan, Karanganyar",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Katholik",
+        "TANGGAL_LAHIR": "04-Maret-1987",
+        "TEMPAT_LAHIR": "Kabupaten Karanganyar",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Akademi Keperawatan Panti Kosala",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Keperawatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Surat Tanda Registrasi Perawat 04 Maret 2017",
+            "Ijasah Akademi Keperawatan Panti Kosala Surakarta",
+            "Surat Bukti Lapor Dinas Kesehatan",
+            "Surat Ijin Perawat Dinas Kesehatan",
+            "Sertifikat Registrasi Majelis Tenaga Kesehatan Propinsi Jawa Tengah",
+            "Sertifikat Uji Kompetensi PPNI Surakarta",
+            "Surat Ijin Kerja Perawat (SIKP) PHCC 04 Maret 2017",
+            "Foto Copy KTP",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Keperawatan",
+        "MEDIS": true,
+        "JABATAN": "Ketua Tim",
+        "MOBILE": [
+            "085647556997"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-Januari-2014"
+        }
+    },
+    {
+        "NO": 11,
+        "NIP_LAMA": "1990060413008",
+        "NIP": "",
+        "NAMA": "Nur Khasanah",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Saripan [RT: 02, RW: 12], Makamhaji, Kartasura, Sukoharjo",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "04-Juni-1990",
+        "TEMPAT_LAHIR": "Kabupaten Sukoharjo",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Akademi Keperawatan Mamba'ul 'Ulum",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Keperawatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah Akademi Keperawatan Mamba'ul 'Ulum Surakarta",
+            "Transkrip Akademik",
+            "SKCK",
+            "Kartu Tanda Pencari Kerja",
+            "SK Dokter Dinas Kesehatan Untuk Mencari Pekerjaan",
+            "SK Pendalaman Praktik Klinik Keperawatan Prof. Dr. R. Soeharso Surakarta",
+            "Sertifikat Pelatihan Basic Trauma Dan Cardiac Life Support",
+            "Piagam Penghargaan Akademi Keperawatan Mamba'ul 'Ulum Surakarta",
+            "Sertifikat ISTIBANK",
+            "Surat Ijin Kerja Perawat (SIKP) PHCC",
+            "Foto Copy KTP",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Keuangan",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            ""
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-Januari-2014"
+        }
+    },
+    {
+        "NO": 12,
+        "NIP_LAMA": "1982122913009",
+        "NIP": "",
+        "NAMA": "Ester Natalliya",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Jl. Brotoseno 2 No1, [RT: 01, RW: 05], Grogolan, Pucangan, Kartasura, Sukoharjo",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Kristen",
+        "TANGGAL_LAHIR": "29-Desember-1982",
+        "TEMPAT_LAHIR": "Kabupaten Sukoharjo",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Universitas Setia Budi",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Farmasi",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Marketing PT. Meprofarm 06 Maret 2006-15 April 2010"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah Universitas Setia Budi Surakarta",
+            "Transkrip Nilai Universitas Setia Budi Surakarta",
+            "Referensi Kerja PT. Meprofarm",
+            "Foto Copy KTP",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Logistik",
+        "MEDIS": false,
+        "JABATAN": "Kepala Bagian",
+        "MOBILE": [
+            "0271782507",
+            "085725602999"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-Januari-2014"
+        }
+    },
+    {
+        "NO": 13,
+        "NIP_LAMA": "19761108130016",
+        "NIP": "",
+        "NAMA": "Sunoto",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "Kota Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "08-November-1976",
+        "TEMPAT_LAHIR": "",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "STM Negeri Tunjungan",
+          "KABUPATEN_KOTA": "Blora",
+          "PRODI": "Teknik Listrik",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [],
+        "DIVISI": "",
+        "SUB_DIVISI": "Mechanical Enginering",
+        "MEDIS": false,
+        "JABATAN": "Kepala Bagian",
+        "MOBILE": [
+            "085725300583"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-Januari-2014"
+        }
+    },
+    {
+        "NO": 14,
+        "NIP_LAMA": "19860117130012",
+        "NIP": "",
+        "NAMA": "Agung Widhy Santoso",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "Jl. Antariksa III No.69, Ngoresan [RT: 03, RW: 17], Jebres, Solo",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "17-Januari-1986",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "O",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Universitas Islam Indonesia",
+          "KABUPATEN_KOTA": "Yogyakarta",
+          "PRODI": "Ekonomi Manajemen",
+          "JENJANG": "Sarjana"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Staff Marketing Team LG Innotex Indonesia 27 September 2010-30 April 2012",
+            "Marketing CV Havin Solo Mei 2009-Januari 2010",
+            "Marketing PT BPRS Formes Januari 2010-Maret 2010",
+            "Numerator Survey dengan Bank BPD DIY (2008)",
+            "Team Survey Konversi Mitan FE UII Dan Pertamina 01 April 2008-16 Juli 2008",
+            "Asisten Dosen Mata Kuliah Bisnis Pengantar FE UII (2008)",
+            "Asisten Trainer Orientasi Nilai-Nilai Dasar (2006-2007)",
+            "Asisten Trainer Latihan Kepemimpinan Islam Dasar (2006-2007)",
+            "Asisten Pendamping Agama Islam FE UII (2006-2008)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah UII",
+            "Transkrip Hasil Belajar",
+            "SK PT LG Innotek Indonesia",
+            "Sertifikat LG Innotek Internal ISQ 14001-2004 Dan OHSAS 18001-2007 Auditor Training",
+            "SK FK UII Konversi Minyak Tanah",
+            "SK FK UII Kepuasan Nasabah Terhadap Pelayanan Kantor Cabang Bank BPD DIY",
+            "LIA English Proficiency Test Result",
+            "Sertifikat LIA General English Basic Level",
+            "Sertifikat English First Elementary 2",
+            "SKCK",
+            "Surat Keterangan Dokter"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Keuangan",
+        "MEDIS": false,
+        "JABATAN": "Manager",
+        "MOBILE": [
+            "081392933559"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Desember-2013",
+            "DIANGKAT": "05-Januari-2015"
+        }
+    },
+    {
+        "NO": 15,
+        "NIP_LAMA": "19921007140024",
+        "NIP": "",
+        "NAMA": "Awanda Rizki Amalia",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Jl. Flores No2 [RT: 2, RW: 1] Kampung Baru, Pasar Kliwon, Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "07-Oktober-1992",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "A",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMK Farmasi Nasional",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Farmasi ",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah SMK Farmasi Nasional Surakarta",
+            "Surat Keterangan Hasil Ujian SMK Farmasi Nasional",
+            "Surat Tanda Registrasi Tenaga Teknis KeFarmasian (STRTTK) 07 Oktober 2016",
+            "Foto Copy KTP",
+            "Foto 4X6 (1 Lembar)",
+            "Surat Ijin Kerja Farmasi (SIKF) PHCC"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Farmasi",
+        "MEDIS": false,
+        "JABATAN": "Asisten Apoteker",
+        "MOBILE": [
+            "085728626092"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-April-2015"
+        }
+    },
+    {
+        "NO": 16,
+        "NIP_LAMA": "19901128140028",
+        "NIP": "",
+        "NAMA": "Danang Haryanto",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "Griyan RT 04 RW 01, Baturan, Colomadu, Karanganyar",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "28-November-1990",
+        "TEMPAT_LAHIR": "Kabupaten Karanganyar",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMA Widya Bhakti",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "IPS",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Security Fave Hotel, Adi Sucipto, Solo"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah Sekolah Menengah Atas Widya Bhakti Surakarta",
+            "Ijasah Pelatihan dasar Satpam Gada Pratama"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Security",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085728397744"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-April-2015"
+        }
+    },
+    {
+        "NO": 17,
+        "NIP_LAMA": "19910520140022",
+        "NIP": "",
+        "NAMA": "Feni Kurniawati",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "20-Mei-1991",
+        "TEMPAT_LAHIR": "Kabupaten Karanganyar",
+        "GOLONGAN_DARAH": "O",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Akademi Kebidanan Citra Medika",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Kebidanan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Klinik Bersalin USODO",
+            "21 Maret 2013-30 September 2013"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah Akademi Kebidanan AKBID Citra Medika Surakarta",
+            "Transkrip Akademik Akademi Kebidanan Citra Medika",
+            "Sertifikat Kompetensi Bidan (SKB) 20 Mei 2017",
+            "Surat Keterangan Magang",
+            "Surat Keterangan Dokter",
+            "Kartu Tanda Bukti Pendaftaran Pencari Kerja",
+            "Surat Keterangan Catatan Kepolisian (SKCK)",
+            "Foto Copy KTP",
+            "Foto 4X6",
+            "Surat Ijin Kerja Bidan (SIKB) PHCC",
+            "Surat Tanda Registrasi Bidan (STRB)"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Keperawatan",
+        "MEDIS": true,
+        "JABATAN": "Ketua Tim",
+        "MOBILE": [
+            "087836496509",
+            "085867100434"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-April-2015"
+        }
+    },
+    {
+        "NO": 18,
+        "NIP_LAMA": "19891007140023",
+        "NIP": "",
+        "NAMA": "Rika Dwi Oktaviana",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Karanglo [RT: 001, RW: 002], Wironanggan, Gatak, Sukoharjo",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "07-Oktober-1989",
+        "TEMPAT_LAHIR": "Kabupaten Sukoharjo",
+        "GOLONGAN_DARAH": "O",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Sekolah Tinggi Ilmu Kesehatan Muhammadiyah",
+          "KABUPATEN_KOTA": "Kabupaten Klaten",
+          "PRODI": "Kebidanan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Magang RSU PKU Muhammadiyah Surakarta 11 Maret 2013-10 Juni 2013"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Ijasah Sekolah Keperawatan Kesehatan Kosdam IV/Diponegoro Magelang",
+            "Ijasah Sekolah Tinggi Ilmu Keperawatan Muhammadiyah Klaten",
+            "Transkrip Akademik Sekolah Tinggi Ilmu Kesehatan Muhammadiyah Klaten",
+            "Sertifikat Kompetensi Bidan (SKB) 07 Oktober 2017",
+            "Surat Keterangan Surat Tanda Registrasi (2012)",
+            "SK Magang Kerja RSU PKU Muhammadiyah Surakarta",
+            "Sertififikat Dinkes Jaringan Nasional Pelatihan Klinik Kesehatan Reproduksi",
+            "Sertifikat Kompetensi Majelis Pendidikan Kejuruan Nasional",
+            "Surat Keterangan Catatan Kepolisian (SKCK)",
+            "Foto Copy KTP",
+            "Foto 4X6",
+            "Surat Ijin Kerja Bidan (SIKB) PHCC",
+            "Surat Tanda Registrasi Bidan (STRB)"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Keperawatan",
+        "MEDIS": true,
+        "JABATAN": "Ketua Tim",
+        "MOBILE": [
+            "085729645206"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-April-2015"
+        }
+    },
+    {
+        "NO": 20,
+        "NIP_LAMA": "19951118140025",
+        "NIP": "",
+        "NAMA": "Muslivania Bibi",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Jl Mangesti Raya [RT: 01, RW: 03] Gentan, Sukoharjo",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "18-November-1995",
+        "TEMPAT_LAHIR": "Kabupaten Sukoharjo",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMK Muhammadiyah 4",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Farmasi",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Apotik Kondang Waras"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Surat Keterangan Lulus SMK Muhammadiyah 4 Surakarta (Kompetensi Keahlian Farmasi)",
+            "Ijasah SMK Muhammadiyah 4 Surakarta",
+            "Surat Tanda Registrasi Tenaga Teknis KeFarmasian (STRTTK) 18 November 2018",
+            "Foto Copy KTP",
+            "Foto 4X6",
+            "Surat Ijin Kerja Farmasi (SIKF) PHCC"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Farmasi",
+        "MEDIS": false,
+        "JABATAN": "Asisten Apoteker",
+        "MOBILE": [
+            "085727425660"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2014",
+            "DIANGKAT": "05-April-2015"
+        }
+    },
+    {
+        "NO": 23,
+        "NIP_LAMA": "19870902140036",
+        "NIP": "",
+        "NAMA": "Tina Khonita",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Klepu Krajan [RT: 001, RW: 001], Klepu, Donorejo, Pacitan",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "02-September-1987",
+        "TEMPAT_LAHIR": "Kabupaten Pacitan",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMK Pancasila 4",
+          "KABUPATEN_KOTA": "Kabupaten Wonogiri",
+          "PRODI": "Akuntansi",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Ijasah",
+            "Foto Copy KTP"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Logistik",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085289737138"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "20-Januari-2014",
+            "DIANGKAT": "20-Juli-2015"
+        }
+    },
+    {
+        "NO": 24,
+        "NIP_LAMA": "19860925140038",
+        "NIP": "",
+        "NAMA": "Dedyc Sapto Nugroho",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "Pilangan [RT: 002, RW: 006] Baturan Colomadu Karanganyar",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "",
+        "TANGGAL_LAHIR": "25-September-1986",
+        "TEMPAT_LAHIR": "Kabupaten Karanganyar",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMK PGRI 1",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "",
+          "JENJANG": ""
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "PT ISS Indonesia (General Service)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Ijasah SMK PGRI 1 Surakarta",
+            "Foto Copy KTP",
+            "Daftar Riwayat Hidup",
+            "Foto4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Cleaning Service",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085725666825"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "16-Januari-2014",
+            "DIANGKAT": "16-April-2015"
+        }
+    },
+    {
+        "NO": 25,
+        "NIP_LAMA": "19910102140042",
+        "NIP": "",
+        "NAMA": "Rika Duwi Hidayat",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Bentak RT 07 A, Banaran, Kalijambe, Sragen, 57275",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "02-Januari-1991",
+        "TEMPAT_LAHIR": "Kabupaten Sragen",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Sekolah Tinggi Ilmu Kesehatan Kusuma Husada",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Keperawatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Magang, RS Ortopedi Surakarta (2012)",
+            "RS Multazam Medika Bekasi Timur (2013)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah STIKES Kusuma Husada Surakarta",
+            "Transkrip Akademik STIKES Kusuma Husada Surakarta",
+            "Surat Tanda Registrasi Perawat (STR) 02 Januasri 2017",
+            "Sertifikat Kompetensi 02 Januari 2017",
+            "Sertifikat Kompetensi Perawat Kualifikasi Kompetensi Lulusan D3 Keperawatan.",
+            "Sertifikat Seminar Hipnoterpi",
+            "Sertifikat Nutricia Service Excellent",
+            "Surat Keterangan Praktek Klinik Keperawatan, IGD RS Ortopedi",
+            "Kartu Tanda Bukti Pendaftaran Pencari Kerja",
+            "Surat Keterangan Catatn Kepolisian (SKCK)",
+            "Surat Keterangan Sehat",
+            "Foto Copy KTP",
+            "Foto 3x4 (2lb)",
+            "Surat Ijin Kerja Perawat (SIKP) PHCC"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Keperawatan",
+        "MEDIS": true,
+        "JABATAN": "Ketua Tim",
+        "MOBILE": [
+            "085725464808"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "17-Maret-2014",
+            "DIANGKAT": "17-Juni-2015"
+        }
+    },
+    {
+        "NO": 26,
+        "NIP_LAMA": "19890403140043",
+        "NIP": "",
+        "NAMA": "Rina Hapsari",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Tegal Keputren [RT: 003, RW: 005], Pajang, Laweyan, Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "03-April-1989",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "0",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Sekolah Tinggi Manajemen Informasi Komputer Sinar Nusantara",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRDDI": "Komputerisasi Akuntansi",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Pramuniaga Adidas SGM (2007-2008)",
+            "Administrasi Garment dan Sales Production Pt.Tyfountex Indonesia (2012)",
+            "Front Office Rumah Batu VIlla and Spa Baki Sukoharjo (6bulan)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Surat Keterangan Hasil Ujian Nasional",
+            "Ijazah SMA",
+            "Ijazah STMIK",
+            "Transkrip Akademik STMIK"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Customer Service",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085642283873"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "25-Maret-2014",
+            "DIANGKAT": "25-Juni-2015"
+        }
+    },
+    {
+        "NO": 27,
+        "NIP_LAMA": "19820925140052",
+        "NIP": "",
+        "NAMA": "Dewi Sunartini",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Perumahan Queen Garden IV Blok H 19, Waru, Baki, Sukoharjo",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "25-September-1982",
+        "TEMPAT_LAHIR": "Kabupaten Wonogiri",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Sekolah Tinggi Ilmu Ekonomi St. Pignatelli",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Ekonomi",
+          "JENJANG": "Sarjana"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijazah STIE St Piganatelli Surakarta",
+            "Transkrip Akademik St.Pignatelli",
+            "Surat Rekomendasi Bekerja PT Platinum Berjangka Solo 01 Maret 2005-31 Juli 2007",
+            "Foto Copy KTP",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Gizi dan Minimarket",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            "085647254871",
+            "08885723853"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "25-Agustus-2014",
+            "DIANGKAT": "25-November-2015"
+        }
+    },
+    {
+        "NO": 28,
+        "NIP_LAMA": "19860509140056",
+        "NIP": "",
+        "NAMA": "Budiman Gumilang Koerniawan",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "Jl Tangkuban Perahu, Villa Palem Mas No.B2, Mojosongo, Jebres, Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "09-Mei-1986",
+        "TEMPAT_LAHIR": "Kabupaten Sumedang",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Universitas Trisakti",
+          "KABUPATEN_KOTA": "Kota Jakarta Barat",
+          "PRODI": "Kedokteran",
+          "JENJANG": "Pendidikan Profesi 1"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah S1 Pendidikan Kedokteran Universitas Trisakti",
+            "Daftar Prestasi Akademik S1 Pendidikan Kedokteran Universitas Trisakti",
+            "Ijasah Profesi Dokter Fakultas Kedokteran Universitas Trisakti",
+            "Daftar Prestasi Akademik Profesi Dokter Fakultas Kedokteran Universitas Trisakti",
+            "Surat Tanda Registrasi (STR) Fakultas Kedokteran Universitas Trisakti 25 Januari 2013-25 Januari 2018",
+            "Sertifikat Indonesia Heart Association (Advanced Cardiac Life Support) ACLS",
+            "Sertifikat Advanced Trauma Life Support",
+            "Sertifikat Pelatihan Hiperkes dan Keselamatan Kerja",
+            "Sertifikat Pendidikan Kedokteran Berkelanjutan Ilmu Kesehatan Anak IV Penanganan Terkini Kegawatan Pada Anak",
+            "Sertifikat Symposium Penatalaksanaan Infeksi Gastrointestinal",
+            "Sertifikat Synbiotic In Paediatric Clinical Practice",
+            "Sertifikat Kegawatdaruratan Neurologis Terkini",
+            "Sertifikat Visum Et Repertum Ditinjau dari Aspek Medikolegal Serta Kiat Menghadapi Tuntutan Malpraktek",
+            "Sertifikat Antibiotic Update in Daily Practice",
+            "Sertifikat The 9th Symposium Clinical Cardiology and ECG Course 2009",
+            "Sertifikat Diklat Sirkumsisi dan Ekstirpasi Lipoma",
+            "Surat Ijin Praktik (SIP)PHCC"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Keperawatan Dan Pendidikan",
+        "MEDIS": false,
+        "JABATAN": "Manajer",
+        "MOBILE": [
+            "081808324733",
+            "089685831869"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "03-November-2014",
+            "DIANGKAT": "17-November-2015"
+        }
+    },
+    {
+        "NO": 29,
+        "NIP_LAMA": "19860515150059",
+        "NIP": "",
+        "NAMA": "Setiawan",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "KTP: Klamongan [RT:002, RW:008], Ngasem, Colomadu, Karanganyar, Sembungan, Ngasem, Colomadu",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "15-Mei-1986",
+        "TEMPAT_LAHIR": "Kabupaten Karanganyar",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMK Adi Sumarmo",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "",
+          "JENJANG": ""
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Cleaning Service Outsourcing PT ISS untuk CIMB Niaga Slamet Riyadi Solo (2010-2013)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah SMK Adisumarmo",
+            "Surat Keterangan Hasil Ujian SMK Adisumarmo",
+            "Surat Keterangan dari PT ISS",
+            "KK",
+            "Foto Copy KTP",
+            "Foto 4X6 2 lembar"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Cleaning Service",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085290087542"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Januari-2015",
+            "DIANGKAT": "19-April-2016"
+        }
+    },
+    {
+        "NO": 30,
+        "NIP_LAMA": "19950117150060",
+        "NIP": "",
+        "NAMA": "Ari Nursita",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Pelemgede [RT: 002, RW: 003], Kelurahan Dologan, Kecamatan Karanggede, Boyolali",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "17-Januari-1995",
+        "TEMPAT_LAHIR": "Kabupaten Boyolali",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Akademi Keperawatan PPNI",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Keperawatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Surat Keterangan AKPER PPNI berubah menjadi AKPER INSADA Surakarta",
+            "Ijasah Akademi Keperawatan PPNI Surakarta",
+            "Transkrip Akademik PPNi Surakarta",
+            "Sertifikat Kompetensi (Lulus Uji Kompetensi D3)",
+            "Sertifikat BTCLS oleh Gadar Medik",
+            "Sertifikat BTCLS oleh gadar Medik (Versi Inggris)",
+            "SKCK",
+            "Foto Copy KTP",
+            "Foto 4X6",
+            "Surat Ijin Kerja Perawat (SIKP) PHCC"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Perawat",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085700048253"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "03-Februari-2015",
+            "DIANGKAT": "17-Mei-2016",
+            "KELUAR": "17-Agustus-2016"
+        }
+    },
+    {
+        "NO": 31,
+        "NIP_LAMA": "19931019150061",
+        "NIP": "",
+        "NAMA": "Faizah Mustika Hasanah",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Tempusari Timur [RT: 03, RW: 02] Tambak Boyo, Mantingan, Ngawi 63257",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "19-Oktober-1993",
+        "TEMPAT_LAHIR": "Kabupaten Ngawi",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Sekolah Tinggi Ilmu Kesehatan 'Aisyiyah",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Kebidanan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Klinik Swasta / BPM Tri Hartini Karanganyar-1 tahun",
+            "Klinik swasta Yurin Sehat Plupuh-Desember"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah Akademi Kebidanan STIKES 'Aisyiyah Surakarta",
+            "Transkrip Akademik",
+            "Surat Keterangan pembuatan STR",
+            "Sertifikat Kompetensi Lulus Uji Kompetensi",
+            "Sertifikat Yayasan Ambulans Gawat darurat 118",
+            "Surat Keterangan Pelatihan Asuhan Persalinan Normal (APN)",
+            "SKCK",
+            "Kartu Tanda Bukti Pendaftaran Pencari Kerja",
+            "Foto Copy KTP",
+            "Foto",
+            "Hasil Ujian Dan Nilai dari PHCC",
+            "Surat Ijin Kerja Perawat (SIK)PHCC"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Perawat",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085747215348"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 32,
+        "NIP_LAMA": "19910509150062",
+        "NIP": "",
+        "NAMA": "Nungki Endarwati",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Buntit [RT: 026, RW: 004] Srimulyo Gondang Sragen",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "09-Mei-1991",
+        "TEMPAT_LAHIR": "Kabupaten Sragen",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Akademi Keperawatan YAPPI",
+          "KABUPATEN_KOTA": "Kabupaten Sragen",
+          "PRODI": "Keperawatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "RS Balikpapan Baru Kalimantan Timur"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah Akademi Keperawatan YAPPI Sragen",
+            "Transkrip Akademik Keperawatan YAPPi Sragen",
+            "Sertifikat Kompetensi Perawat sampai tanggal 09 mei 2018",
+            "Surat Keterangan pengganti STR, STR asli dalam proses",
+            "Surat Keterangan Kerja RS Balikpapan Baru",
+            "Sertifikat LPIA",
+            "Sertifikat RSDM BLS",
+            "Sertifikat Komputer Alfa Center",
+            "Sertifikat Jakarta Medical Service and Training 119",
+            "Sertifikat Kementrian Kesehatan Republik Indonesia",
+            "Sertifikat Panitia Seminar IMP D3 Keperawatan STIKES Aisyiyah Surakarta",
+            "Sertifikat",
+            "Foto",
+            "Foto Copy KTP",
+            "Surat Ijin Kerja Perawat (SIK) PHCC"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Perawat",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085647555170| 082226141915"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "05-Maret-2015",
+            "DIANGKAT": "19-Juni-2016"
+        }
+    },
+    {
+        "NO": 33,
+        "NIP_LAMA": "19930616150067",
+        "NIP": "",
+        "NAMA": "Khusnul Khotimah",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Brajan [RT:01, RW: 08], Sindon, Ngamplak, Boyolali",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "16-Juni-1993",
+        "TEMPAT_LAHIR": "Kabupaten Boyolali",
+        "GOLONGAN_DARAH": "O",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Akademi Kebidanan Mamba'ul 'Ulum",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Kebidanan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Bidan Evi Rohmadian, Sukoharjo, Oktober 2014-Februari 2015"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah Akademi Kebidanan Mamba'ul 'Ulum Surakarta",
+            "Transkrip Akademik",
+            "Surat Keterangan STR dalam proses",
+            "Sertifikat Kompetensi-Lulus Uji Kompetensi D3 Kebidanan",
+            "Surat Keterangan Lulus Ujian Kompetensi Bidan oleh MTKP Jateng",
+            "Surat Keterangan Sehat",
+            "Kartu Tanda Bukti Pendaftaran Pencari Kerja",
+            "Surat Keterangan telah melaksanakan Praktek Klinik Kebidanan I, RS Slamet Riyadi 14 Mei s/d 09 Juni 2012",
+            "Surat Keterangan Magang Kerja, RS Slamet Riyadi 09 September 2014 s/d 01 Oktober 2014",
+            "Surat Keterangan Pelatihan Asuhan Persalinan Normal (APN) 15 s/d 25 September 2014, Poltekkes Bhakti Mulia Skh",
+            "Sertifikat LIA Conversation in English Elementary Levels",
+            "Sertifikat Yayasan Kanker Indonesia Cabang Surakarta Seminar Kesehatan dan temu Pakar 18 April 2015",
+            "Sertifikat Akademi Kebidanan Mamba'ul 'Ulum Surakarta-Muatan Lokal Kesehatan Reproduksi",
+            "Sertifikat LPPMS Pendidikan Komputer Ms Office",
+            "Sertifikat Akademi Kebidanan Mamba'ul 'Ulum Surakarta dengan yayasan DKT Indonesia-Pelatihan IUD Safe Load",
+            "Sertifikat Akademi Kebidanan Mamba'ul 'Ulum Surakarta dengan yayasan DKT Indonesia-Pelatihan IMPLANT",
+            "Sertifikat PT Nestle Indonesia Nutrisi Tumbuh Kembang si Kecil",
+            "Sertifikat Seminar Nasional Jurnalistik Peranan Jurnalistik dalam Perkembangan Sains",
+            "Sertifikat dari OSIS SMA MTA Surakarta Mengenal Kesehatan Reproduksi dan HIV",
+            "Sertifikat Kuliah Umum Panduan Wawancara Super Lengkap AKBIDMUS",
+            "Sertifikat Seminar Ilmiah Smart Brithing The New Holistic care in Midwifery",
+            "Sertifikat Simposium Nasional Breastfeeding as Golden Standart Nutrition to Optimize Paltinum Growth",
+            "Sertifikat Seminar Ilmiah Smart, Beautiful and Helathy by USing Contraception",
+            "Sertifikat Simposium Nasional oleh Happy Family: Sexology, Psychology and Health Reproduction",
+            "Sertifikat Seminar Ilmiah AKBIDMUS Gentle Birth, peluang bidan modern menuju persalinan yang menyenangkan",
+            "SKCK",
+            "Foto Copy KTP",
+            "Nilai ujian",
+            "Foto",
+            "Surat Ijin Kerja Perawat (SIK)PHCC"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Perawat",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085702526868"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "25-Mei-2015",
+            "DIANGKAT": "25-Agustus-2016"
+        }
+    },
+    {
+        "NO": 34,
+        "NIP_LAMA": "19800710150068",
+        "NIP": "",
+        "NAMA": "Yulita Rahman",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Perumahan Permata Puri 2 Blok A No.6 Colomadu, Karanganyar",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "10-Juli-1980",
+        "TEMPAT_LAHIR": "Kabupaten Klaten",
+        "GOLONGAN_DARAH": "A",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Universitas Gadjah Mada",
+          "KABUPATEN_KOTA": "Yogyakarta",
+          "PRODI": "Psikologi",
+          "JENJANG": "Pendidikan Profesi 1"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Asisten Biro Konsultasi UGM (2001-2002)",
+            "Asisten Psikologi Faal (2000-2001)",
+            "Konselor Program Intensif LBB Sony Sugema Collage (Mei 2001)",
+            "Konselor Program Intensif LBB Sony Sugema Collage (Mei 2002)",
+            "Tester Psikotes pada beberapa Sekolah (2002)",
+            "data Collector pada Penelitian Hubungan kebermaknaan hidup pada penderita DM II (2002)",
+            "Prakterk Kerja bidang Psikologi Klinis, RSJP Prof.Dr.Soeroyo Magelang (Maret-April 2004)",
+            "Praktek Kerja bidang Psikologi Industri dan Organisasi, PT New Armada Magelang-Desember-Januari (2004)",
+            "Junior Psikolog, LPKM Fakultas Psikologi UGM (2004-2005)",
+            "Psikolog, HRD Consultant (Q_HRD) Surabaya (2005-2006)",
+            "Tim Seleksi Karyawan Baru PT PLN-2007",
+            "Tim Seleksi Karyawan baru PT Pertamina (2005)",
+            "Tim Seleksi Managemen Trainee BRI (2010)",
+            "Staf Sekretariat Yayasan Kanker Indonesia Surakarta Juni (2015-Sekarang)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijazah Psikolog-Profesi 21 Agustus 2014",
+            "Transkrip S1",
+            "Ijazah Psikologi-19 Peburari 2003",
+            "Transkripsi",
+            "Sertifikat Asisten Psikologi Faal (22 September 2001)",
+            "Sertifikat Asisten unit Konsultasi Psikologis (04 November 2002)",
+            "Surat Keterangan Magang PT. Mekar Armada Jaya (01 Desember 2003-10 Januari 2004)",
+            "Foto Copy KTP",
+            "Foto"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "CV. Permata Harapan",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "081329983867"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "01-Agustus-2015",
+            "DIANGKAT": "01-November-2016"
+        }
+    },
+    {
+        "NO": 35,
+        "NIP_LAMA": "19940114150070",
+        "NIP": "",
+        "NAMA": "Ridho Putri Mulyani",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Baron Gede [RT:02, RW: 11], Panularan, Laweyan, Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "14-Januari-1994",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "A",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": "Pendidikan D3 Keperawatan AKPER Tujuh Belas Karanganyar",
+        "PENGALAMAN_PELATIHAN": [
+            "Organisasi:",
+            "Anggota SAR HAK Lanud Adi Soemarmo 2014-sekarang"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Surat Keterangan Lulus 18 April 2015",
+            "Kartu Hasil Studi",
+            "Certificate Participant The 38th CISM World Mulitary Parachuting Championship",
+            "Surat Keterangan Pembentukan Pelatihan Karakter Bangsa, Pangkalan TNI AU Adi Soemarmo 28-29 Agustus 2014",
+            "Surat Keterangan Badan SAR Nasional Pelatihan Medical First Responder",
+            "Sertifikat Basic Life Support (BLS)di RSDM 07-08 Maret 2014",
+            "Serftifikat Solo Nursing Center tentang Penatalaksanaan Terkini Gawat Darurat Kardiovaskuler",
+            "Sertifikat PPNI dalam kegiatan Rapat Kerja Nasional III PPNI tema: Kesejahteraan Perawat Diantara Harapan dan Tuntutan Kualitas Pelayanan Kesehatan",
+            "STR",
+            "Sertifikat Pengenalan Program Studi 03 s/d 05 September 2013 Akademi Akper 17 Karanganyar",
+            "Foto Copy KTP",
+            "Foto 4X6",
+            "Hasil test, phcc",
+            "Surat Ijin Kerja Perawat (SIK) PHCC"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Perawat",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085727739938"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "28-September-2015",
+            "DIANGKAT": "28-Desember-2016"
+        }
+    },
+    {
+        "NO": 37,
+        "NIP_LAMA": "19920315150073",
+        "NIP": "",
+        "NAMA": "Tri Wahyu Dewi Permatasari",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Dukuh Branjangan [RT: 02, RW: 05], Desa Jabung, Kecamatan Gantiwarno, Klaten",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "15-Maret-1992",
+        "TEMPAT_LAHIR": "Kabupaten Klaten",
+        "GOLONGAN_DARAH": "B",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Universitas Ahmad Dahlan",
+          "KABUPATEN_KOTA": "Yogyakarta",
+          "PRODI": "Farmasi",
+          "JENJANG": "Pendidikan Profesi 1"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Praktek Kerja Lapangan, Puskesmas Mantrijen Yogyakarta",
+            "Praktek Kerja Profesi Apoteker, RSDM",
+            "Praktek Kerja Profesi Apoteker, Apotek Afina Yogyakarta"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijasah S1 Program Studi Farmasi Fakultas Farmasi",
+            "Transkrip Akademik S1 Universitas Ahmad Dahlan",
+            "Transkrip Nilai",
+            "Ijasah Profesi Apoteker",
+            "Transkrip Akademik Profesi Apoteker",
+            "Transkrip Nilai Profesi Apoteker",
+            "Surat Tanda Registrasi",
+            "SIPA"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Farmasi",
+        "MEDIS": false,
+        "JABATAN": "Apoteker",
+        "MOBILE": [
+            ""
+        ],
+        "TANGGAL": {
+            "DITERIMA": "25-November-2015",
+            "DIANGKAT": "25-November-2016"
+        }
+    },
+    {
+        "NO": 39,
+        "NIP_LAMA": "19800508160077",
+        "NIP": "",
+        "NAMA": "Irwan Prihatno Nugroho",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "Kandang Sapi [RT: 02, RW: 34], Jebres, Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "08-Mei-1980",
+        "TEMPAT_LAHIR": "Kabupaten Klaten",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "BPLD Ksatriyan",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "",
+          "JENJANG": ""
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "PT. Karya Kasih Distributor Cat Dulux - Helper Pengiriman - 2002-2003",
+            "PT. ISS Indonesia - Office Boy Area Bank CIMB Niaga Surakarta - 2006-2011",
+            "Toko Setia Motor Agen Resmi Spare Part Mobil Toyota Genuine Part - Sales - 2013-2015"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Sertifikat latihan Kerja Pariwisata-Perhotelan 18 Agustus 2001",
+            "Ijasah / Surat Keterangan Tourism and Business Training Centre Kasatriyan Kraton Surakarta Indonesia 18 Agustus 2001",
+            "Surat Keterangan PT.ISS untuk CIMB Niaga Surakarta Januari 2006-Desember 2011",
+            "Surat Rekomendasi Toko Setia Motor Agustus 2013- 13 Oktober 2015",
+            "Surat Pengalaman Kerja PT Karya Kasih Tri Utama 11 September-30 Desember 2003",
+            "Foto Copy KTP",
+            "SIM A",
+            "SIM C",
+            "SKCK",
+            "Hasil Interview",
+            "Hasil Psikotest"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Driver",
+        "MEDIS": false,
+        "MOBILE": [
+            "085727427700",
+            "085385548927"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "04-April-2016",
+            "DIANGKAT": "04-Juli-2017"
+        }
+    },
+    {
+        "NO": 41,
+        "NIP_LAMA": "19920606160079",
+        "NIP": "",
+        "NAMA": "Regina Kuskarna Eka Dewi",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Dukuh [RT: 12, RW: 04] No: 465 Kuwiran, Bangudono, Boyolali",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Katholik",
+        "TANGGAL_LAHIR": "06-Juni-1992",
+        "TEMPAT_LAHIR": "Kabupaten Boyolali",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Akademi Analis Kesehatan Nasional",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Analis Kesehatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Tenaga Analis Kesehatan RS Panti Rapih Yogyakarta, Oktober 2013-Desember 2014"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Ijazah SMK Analis Kesehatan Nasional Surakarta",
+            "Ijazah Akademi Analis Kesehatan Nasional Surakarta 28 Agustus 2016",
+            "Ijazah Akademi Analis Kesehatan Nasional Surakarta Kementerian Kesehatan RI 28 Agustus 2013",
+            "Transkrip Akademik",
+            "Surat Tanda Registrasi Analis Kesehatan (STR) 06 Juni 2020",
+            "Sertifikat Kompetensi Analis Kesehatan 06 Juni 2018",
+            "Sertifikat Sala Laboratory Of English TOEIC score 730",
+            "Sertifikat Sala Laboratory of English TOEFL score 510",
+            "Sertifikat Seminar Sehari memperingati hari TBC PATELKI 27 Mei 2012",
+            "Sertifikat PATELKI Cabang Yogyakarta Pre Analitik Pemeriksaan Laboratorium Dan Urinalisa 24 Agustus 2014",
+            "Sertifikat RSDM BLS Predikat Baik: 28 Maret 2013",
+            "Sertifikat Johnson And Johnson Workshop Pelatihan Pengguna Blood Glucose Meter POCT one touch sure step 14 April 2014",
+            "Sertifikat PT Saba Indomedika User Training XN-1000 B3 Hematology Anlyzer 08 Januari 2014",
+            "Surat Keterangan Kerja dari PT.STX Precision Batam 22 Juli 2015-21 November 2015",
+            "Surat Keterangan Pengalaman Kerja RS Panti Rapih Yk, 01 Oktober 2014-11 Desember 2014",
+            "Foto Copy KTP",
+            "SKCK",
+            "Hasil Ujian",
+            "Hasil Psikotest",
+            "SIK Analis Kesehatan"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Laboratorium",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "089673484766"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "27-Juni-2016",
+            "DIANGKAT": "27-September-2017"
+        }
+    },
+    {
+        "NO": 42,
+        "NIP_LAMA": "19890720160080160081",
+        "NIP": "",
+        "NAMA": "Arlinda Ayudyasari",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Thekil [RT: 02, RW: 05], Thekil, Sooka, Punung Pacitan",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "20-Juli-1989",
+        "TEMPAT_LAHIR": "Kabupaten Pacitan",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Universitas Setia Budi",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Analis Kesehatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "laboratorium Amanah, Pacitan Desember 2010-Januari 2015",
+            "Apotek dan Klinik Darma Sehat , Pacitan Februari 2015-"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Kerja",
+            "Daftar Riwayat Hidup",
+            "Surat Tanda Registrasi (STR) 20 Juli 2019",
+            "Transkrip Akademik",
+            "Surat Keterangan Pengalaman Kerja Klinik Amanah",
+            "Sertifikat PATELKI pada Muscab III dan Seminar Ilmiah IV dengan Tema: Kita Tingkatkan Profesionalisme dan kemandirian Ahli Teknologi Laboratorium Medik Indonesia Menuju trenggalek Sehat, 27 September2015",
+            "Sertifikat Universitas Setia Budi Seminar Nasional Human Insemination-The evolution for Medical Technology Laboratory 14 Juni 2015",
+            "Sertifikat PATELKI seminar ilmiah 23 Agustus 2015",
+            "Sertifikat DPC PATELKI Lamongan Seminar Ilmiah Deteksi Dini ca Mammae 02 Agustus 2015",
+            "Sertifikat DPC PATELKI Kediri Seminar Sehari, Preparasi sampel yang tepat untuk menunjangketepatan Diagnosa 15 September 2013",
+            "Sertifikat DPC PATELKi PACITAn seminar ilmiah Diagnosa Kuning pada bayi dan pemantapan mutu laboratorium 27 Oktober 2013",
+            "Sertifikat DPC PATELKI Jatim dan Muscab PATELKI DPC Madiun dan Ngawi Deteksi Dini dan Penatalaksanaan Diabetes Militus serta fungsi ginjal 08 Juli 2012",
+            "Sertifikat Universitas Setia Budi Pembekalan Etika Profesi dan etika Kerja bagi lulusan Ahli madya Analis Kesehatan Universitas Setia Budi 10 Agustus 2010",
+            "Serfikat Universitas Setia Budi Seminar Implementasi Good Laboratory Practice bagi Tenaga Kesehatan",
+            "Sertifikat RSKI sebagai PKL 08 Februari-6 Maret 2010",
+            "Sertifikat BEM Universitas Setia Budi Seminar Nasional tema Sex Education 26 November 2009",
+            "Sertifikat Himpunan Mikrobiologi Indonesia Simposium Mikrobiologi Peranan Bioteknologi, Bidang Kesehatan 23 Maret 2009",
+            "Sertifikat Universitas Setia Budi Dan BD Phlebotomy Training with Vacutainer System 11 Januari 2010",
+            "Sertifikat Universitas Setia Budi TOEFL dengan score 400",
+            "Sertifikat ALPHAKOM pendidikan Under Windows Ms Office 25 November 2002",
+            "Foto Copy KTP",
+            "Hasil Ujian",
+            "Hasil Psikotest",
+            "SIK Analis Kesehatan"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Laboratorium",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            ""
+        ],
+        "TANGGAL": {
+            "DITERIMA": "27-Juni-2016",
+            "DIANGKAT": "27-September-2017"
+        }
+    },
+    {
+        "NO": 44,
+        "NIP_LAMA": "19950605160083",
+        "NIP": "",
+        "NAMA": "Diyah Arum Kartikaningtyas",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Kaliniti [RT: 2, RW: 4], Siwal, Baki, Sukoharjo",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "05-Juni-1995",
+        "TEMPAT_LAHIR": "Kabupaten Sukoharjo",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Sekolah Tinggi Ilmu Kesehatan Nasional",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Farmasi",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Puskesmas Baki Sukoharjo PKL SMK Farmasi Nasional Surakarta 2012",
+            "RSUD dr. Moewardi Surakarta PKL SMK Farmasi Nasional Surakarta 2012",
+            "Apotek Anugerah Sehat Gatak, Sukoharjo Tenaga Teknis KeFarmasian 2013"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Surat Keterangan Lulus dari STIKES Nasional",
+            "SKCK",
+            "Hasil Test Psikotest",
+            "Penilaian Interview",
+            "Foto Copy KTP",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "",
+        "MEDIS": false,
+        "MOBILE": [
+            "085647203121"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "13-September-2016",
+            "DIANGKAT": "13-Desember-2017"
+        }
+    },
+    {
+        "NO": 45,
+        "NIP_LAMA": "16008419940111160084",
+        "NIP": "",
+        "NAMA": "Jarman",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "",
+        "TANGGAL_LAHIR": "",
+        "TEMPAT_LAHIR": "",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": "",
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [],
+        "DIVISI": "",
+        "SUB_DIVISI": "Mechanical Engineering",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            ""
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 46,
+        "NIP_LAMA": "19931223160085",
+        "NIP": "",
+        "NAMA": "Desi Arfiana",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Wonorejo [RT:04, RW:11], Wonorejo, Gondangrejo, Karanganyar",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "23-Desember-1993",
+        "TEMPAT_LAHIR": "Kabupaten Karanganyar",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMK Muhammadiyah 4",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Farmasi",
+          "JENJANG": "Pendidikan Profesi 1"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Asisten Apoteker, Apotek Medica Jaya Surakarta (2013)-Mei 2016",
+            "Asisten Apoteker, Apotek Cipta Sehat Surakarta 01 Juni 2016-sekarang"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Ijazah SMK Muhammadiyah 4 Surakarta dan Daftar Nilai",
+            "Surat Tanda Tegistrasi tenaga Teknis KeFarmasian 5 tahun 23 Desember 2017",
+            "Surat Pengalaman Kerja Apotek Medica Jaya",
+            "Sertifikat Kompetensi KeFarmasian",
+            "Sertifikat Pratek Kerja Industri, Apotek Sondakan",
+            "Sertifikat Pratek Kerja Industri, Puskesmas Pucang Sawit",
+            "SKCS",
+            "Foto Copy KTP",
+            "Hasil Laboratorium",
+            "Hasil Test Psikotest",
+            "Hasil Interview"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Keperawatan",
+        "MEDIS": true,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "089669349436"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "01-November-2016",
+            "DIANGKAT": "01-Februari-2018"
+        }
+    },
+    {
+        "NO": 47,
+        "NIP_LAMA": "19950928151201",
+        "NIP": "",
+        "NAMA": "Septiana Dewi",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Nolodutan [RT: 03, RW: 022], Makamhaji, Kartasura",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "28-September-1995",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": "SMK Akuntansi",
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [],
+        "DIVISI": "",
+        "SUB_DIVISI": "YKI Cabang Surakarta",
+        "MEDIS": false,
+        "MOBILE": [
+            ""
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 48,
+        "NIP_LAMA": "19950616160086",
+        "NIP": "",
+        "NAMA": "Devi Eka Rahmawati",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Dolon [RT: 01, RW: 07], Paseban, bayat, Klaten",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "16-Juni-1995",
+        "TEMPAT_LAHIR": "Kabupaten Klaten",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Politeknik Kesehatan Kementrian Kesehatan",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Keperawatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Ijazah D3 Politeknik Kesehatan Kementrian Kesehatan Surakarta",
+            "Transkrip Akademik",
+            "Sertifikat Pelatihan Penanggulangan Penderita Gawat darurat (PPGD)/BTCLS) dari Kemetrian Kesehatan RI",
+            "Sertifikat Akreditasi BAN-PT, Akreditasi B",
+            "Foto Copy KTP",
+            "SKCK",
+            "Hasil Interview",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "keperawatan",
+        "MEDIS": true,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "085712962403",
+            "085601732212"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 49,
+        "NIP_LAMA": "90",
+        "NIP": "",
+        "NAMA": "Indah",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "",
+        "TANGGAL_LAHIR": "",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "",
+        "PENDIDIKAN": "",
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [],
+        "DIVISI": "",
+        "SUB_DIVISI": "Cafe Leiden",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            ""
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 50,
+        "NIP_LAMA": "87",
+        "NIP": "",
+        "NAMA": "Daniel Sinung Krisanggra Putra",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "",
+        "TANGGAL_LAHIR": "",
+        "TEMPAT_LAHIR": "",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "",
+        "PENDIDIKAN": "",
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [],
+        "DIVISI": "",
+        "SUB_DIVISI": "",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            ""
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 51,
+        "NIP_LAMA": "88",
+        "NIP": "",
+        "NAMA": "Yohanes Boy",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "",
+        "TANGGAL_LAHIR": "",
+        "TEMPAT_LAHIR": "",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "",
+        "PENDIDIKAN": "",
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [],
+        "DIVISI": "",
+        "SUB_DIVISI": "",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            ""
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 52,
+        "NIP_LAMA": "89",
+        "NIP": "",
+        "NAMA": "Bimo",
+        "GENDER": "",
+        "ALAMAT_IDENTITAS": "",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "",
+        "TANGGAL_LAHIR": "",
+        "TEMPAT_LAHIR": "",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": "",
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [],
+        "DIVISI": "",
+        "SUB_DIVISI": "",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            ""
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 53,
+        "NIP_LAMA": "19791005170095",
+        "NIP": "",
+        "NAMA": "Didik Tri Santoso",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "Kandangsapi [RT: 002, RW: 034], Jebres, Jebres, Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "05-Oktober-1979",
+        "TEMPAT_LAHIR": "Kota Surakarta",
+        "GOLONGAN_DARAH": "O",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMPN 14",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "JENJANG": "SMP"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Mekanik Bengkel Mitra Kencana Motor, Jakarta Pusat.",
+            "Sopir PT. Fumigan Utama Indonesia (Fumigasi), Jakarta",
+            "Mekanik Bengkel Dunia Motor, Solo",
+            "Sopir Pribadi Dokter, Nayu, Banjarsari, Surakarta",
+            "Sopir Carteran (Freelance)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Ijazah SMPN 14 Surakarta 1996",
+            "Daftar Nilai Ijazah SMPN 14 Surakarta 1996",
+            "Foto Copy KTP",
+            "SKCK",
+            "Foto 4X6",
+            "SIM A"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Driver",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            "082221237811"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 54,
+        "NIP_LAMA": "19930523170094",
+        "NIP": "",
+        "NAMA": "Nindita Erminda Dewi",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Talang [RT: 007, RW: 002], Kalijirak, Tasikmadu, Karanganyar",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "23-Mei-1993",
+        "TEMPAT_LAHIR": "Kabupaten Karanganyar",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Akademi Perekam Medik dan Informatika Kesehatan Citra Medika",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Rekam Medis dan Informasi Kesehatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "RS. Umi Barokah Boyolali (2013)",
+            "Praktek Lapangan RS. Islam Surakarta (2013)",
+            "Praktek Lapangan UPTD Puskesmas Grogol Sukoharjo (2014)",
+            "Praktek Lapangan RSUD dr. Soediran Mangun Sumarso Wonogiri (2014)",
+            "Praktek Lapangan RSJD dr. Amino Gondohutomo Semarang (2015)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Ijazah D3 Rekam Medis dan Informasi Kesehatan Akademi Perekam Medik dan Informatika Kesehatan Citra Medika Surakarta 2015",
+            "Transkrip Akademik",
+            "Foto Copy KTP",
+            "SKCK",
+            "Foto 4X6",
+            "Sertifikat Kompetensi 2015 Dan STR 2016",
+            "Sertifikat Komputer 2015",
+            "Sertifikat Strategi Pencegahan dan Advokasi Petugas Rekam Medis Terhadap Fraud, Era JKN",
+            "Sertifikat Kompetensi Perekam Medis dan Informasi Kesehatan Terhadap dalam mendukung Pelaksanaan JKN",
+            "Sertifikat Peran Perekam Medis dalam implementasi Sistem Jaminan Sosial Nasional (SJNS)",
+            "Sertifikat Peran Koder Terhadap Klaim Assuransi dan SJSNB-BPJS Kesehatan.",
+            "Sertifikat Peningkatan Kompetensi Perekam Medis Dalam Menyongsong Akreditasi Joint Commission International (JCC)",
+            "Sertifikat Sistem Program Kreatifitas Mahasiswa"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Rekam Medis",
+        "MEDIS": false,
+        "JABATAN": "Staff",
+        "MOBILE": [
+            "081325012512"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 55,
+        "NIP_LAMA": "19920926170096",
+        "NIP": "",
+        "NAMA": "Ronny Donovan",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "Nangsri Kidul [RT: 003, RW: 001], Nangsri, Kebak Kramat, Karanganyar",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "26-September-1992",
+        "TEMPAT_LAHIR": "Kabupaten Karanganyar",
+        "GOLONGAN_DARAH": "O",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Universitas Muhammadiyah",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Pendidikan Akuntansi",
+          "JENJANG": "Sarjana"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Operator Radio, CV. Sekar Gelora, Surakarta (2011-2015)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Ijazah S1 Universitas Muhammadiyah Surakarta Program Studi Pendidikan Akuntansi-lulus 2016",
+            "Transkrip Akademik",
+            "Foto Copy KTP",
+            "Foto 4X6"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Logistik",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            "085647237173"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "18-Mei-2017",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 56,
+        "NIP_LAMA": "19930511170097",
+        "NIP": "",
+        "NAMA": "Budi Widayat",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "DK. Bangun Asri [RT: 003, RW: 002], Kateguhan, Tawangsari, Sukoharjo",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "11-Mei-1993",
+        "TEMPAT_LAHIR": "Kabupaten Sukoharjo",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Politeknik Kesehatan Bhakti Mulia",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Keperawatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Ijazah D3 Keperawatan Politeknik Kesehatan Bhakti Mulia Surakarta 2016",
+            "Transkrip Akademik",
+            "Foto Copy KTP",
+            "Foto 4X6",
+            "SKCK",
+            "Sertifikat Kompetensi 2016",
+            "Sertifikat Basic Trauma Cardiac Life Support 2016"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Perawat",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            "082243449518"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 57,
+        "NIP_LAMA": "19940518170098",
+        "NIP": "",
+        "NAMA": "Meida Himawati",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "Bulu RT.004 RW.- , Doyong, Miri, Sragen",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "18-Mei-1994",
+        "TEMPAT_LAHIR": "Kabupaten Sragen",
+        "GOLONGAN_DARAH": "B",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMK Muhammadiyah 3",
+          "KABUPATEN_KOTA": "Gemolong",
+          "PRODI": "Keuangan Akuntansi",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "LPK Nusantaras Computer (2010-2011)",
+            "Toserba Kestari Baru (2011)",
+            "PT. Budi sehat Sentra Diagnostika (2011-2017)",
+            "Pratek Kerja Industri, Universistas Muhammadiyah Surakarta (2010)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Foto Copy KTP",
+            "Foto 3 X 4",
+            "SIM C",
+            "Ijazah SMK Muhammadiyah 3 Gemolong Program Studi Keuangan Akuntansi 2011",
+            "Sertifikat Kompetensi Ujian Kejuruan",
+            "Sertifikat Kursus Bahasa Inggris",
+            "Sertifikat Kompetensi Microsoft Office",
+            "Sertifikat Kursus MS. Office Excel",
+            "Sertifikat Kursus MS. Office Word"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "HRD",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            "089604368823"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "20-Mei-2017",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 58,
+        "NIP_LAMA": "19840103170091",
+        "NIP": "",
+        "NAMA": "Sendi Dwi Brimantika",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "Jl. Siwalan 3 No. 20 [RT: 002, RW: 014], Kerten, Laweyan, Surakarta",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "31-Januari-1984",
+        "TEMPAT_LAHIR": "Kota Bandung",
+        "GOLONGAN_DARAH": "B",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Menikah",
+        "PENDIDIKAN": {
+          "ALMAMATER": "SMAN 4, Kota Bandung",
+          "PRODI": "IPA",
+          "JENJANG": "SMA/SMK/MA"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Technician Dan Trainer Optima Group Solo (2007-2008)",
+            "Freelance Web Dan Brochure Design Optima Centra Computama (2009)",
+            "Freelance Web Design CV. Medivindo Sarana Medica (2011)",
+            "Sub Contract Web Application Sistem Pelaporan Panwaslu Sumedang (2013)",
+            "Sub Contract Desktop Application SIPROPDA Kabupaten Sumedang (2014-2015)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Foto Copy KTP",
+            "Ijazah SMU Negeri 4 Bandung Program IPA 2002"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "IT",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            "087821513777"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "1 Februari 2017",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 59,
+        "NIP_LAMA": "19941017170092",
+        "NIP": "",
+        "NAMA": "Winda Fitriani",
+        "GENDER": "Perempuan",
+        "ALAMAT_IDENTITAS": "DK. Tanduk RT. 005 RW.002, Tanduk, Ampel, Boyolali",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "17-Oktober-1994",
+        "TEMPAT_LAHIR": "Kabupaten Boyolali",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "Sekolah Tinggi Ilmu Kesehatan KUSUMA HUSADA",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Keperawatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Foto Copy KTP",
+            "Foto 4X6",
+            "SKCK",
+            "Ijazah D3 STIKES KUSUMA HUSADA Surakarta PROGRAM STUDI KEPERAWATAN 2016",
+            "Transkrip Akademik",
+            "Sertifikat Kompetensi 2016",
+            "Sertifikat BTCLS",
+            "Sertifikat Aplikasi Terkini Patient Safety Dalam Praktik Keperawatan Profesional",
+            "Sertifikat Penatalaksanaan Kegawatdaruratan Neonatal terkini",
+            "Sertifikat Ilmu Keperawatan Herbal",
+            "Sertifikat The Current Nursing Management in Disaster",
+            "Sertifikat Guest Lecture on Prevention, Assessment and Management of Decubitus Ulcer and Burns",
+            "Sertifikat Perlindungan Kesehatan Reproduksi Sejak Dini Demi Menyongsong Masa Depan Gemilang",
+            "Sertifikat Explore Potention to be a Professional Nurse",
+            "Sertifikat PKL DR.R.Soeharso Surakarta"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Perawat",
+        "JABATAN": "Staff",
+        "MEDIS": false,
+        "MOBILE": [
+            "085291746777"
+        ],
+        "TANGGAL": {
+            "DITERIMA": "2 Februari 2017",
+            "DIANGKAT": ""
+        }
+    },
+    {
+        "NO": 60,
+        "NIP_LAMA": "19930917170102",
+        "NIP": "",
+        "NAMA": "Jaiz Sugeng Santoso",
+        "GENDER": "Laki-Laki",
+        "ALAMAT_IDENTITAS": "DK. Jetis [RT: 001, RW: 003], Karakan, Weru, Sukoharjo",
+        "ALAMAT_TINGGAL": "",
+        "AGAMA": "Islam",
+        "TANGGAL_LAHIR": "17-September-1993",
+        "TEMPAT_LAHIR": "Kabupaten Sukoharjo",
+        "GOLONGAN_DARAH": "",
+        "BPJS": {
+        },
+        "STATUS_PERNIKAHAN": "Lajang",
+        "PENDIDIKAN": {
+          "ALMAMATER": "STIKES KUSUMA HUSADA",
+          "KABUPATEN_KOTA": "Kota Surakarta",
+          "PRODI": "Keperawatan",
+          "JENJANG": "Diploma 3"
+        },
+        "PENGALAMAN_PELATIHAN": [
+            "Pendidikan Dan Pelatihan Perawat Intensive Care Unit (ICU)"
+        ],
+        "KELENGKAPAN_DOKUMEN": [
+            "Surat Lamaran Pekerjaan",
+            "Daftar Riwayat Hidup",
+            "Foto Copy KTP",
+            "Foto 4X6",
+            "SKCK",
+            "Surat Keterangan Sehat",
+            "Kartu Keluarga",
+            "Ijazah D3 STIKES KUSUMA HUSADA Surakarta PROGRAM STUDI KEPERAWATAN 2016",
+            "Transkrip Akademik",
+            "Sertifikat Kompetensi 2016",
+            "Surat Keterangan STR dalam proses",
+            "Surat Keterangan BAN-PT STIKES Kusuma Husada Surakarta",
+            "Sertifikat BAN-PT STIKES Kusuma Husada Surakarta",
+            "Sertifikat Seminar Nasional Penatalaksanaan Kegawatdaruratan Neonatal Terkini",
+            "Sertifikat seminar Healthy Sex is a Good Sex",
+            "Sertifikat seminar More Effective Ways to Prevent and Control Diabetes Mellitus in the Future",
+            "Sertifikat seminar Pre Hospital Nursing Care Of Head Injury Emergency",
+            "Sertifikat seminar malam pengakraban : Explore Potention to be a Professional Nurse",
+            "Sertifikat seminar aplikasi terkini patient safety dalam praktik keperawatan profesional",
+            "Sertifikat Ilmu Keperawatan Herbal",
+            "Sertifikat BTCLS"
+        ],
+        "DIVISI": "",
+        "SUB_DIVISI": "Perawat",
+        "JABATAN": "Staff",
+        "MEDIS": true,
+        "MOBILE": [
+            ""
+        ],
+        "TANGGAL": {
+            "DITERIMA": "",
+            "DIANGKAT": ""
+        }
+    }
+]

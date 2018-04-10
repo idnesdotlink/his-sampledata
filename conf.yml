@@ -1,0 +1,16 @@
+root:
+  username: root
+  password: MS+SDB
+application:
+  username: his
+  password: his
+  database: his
+common:
+  host: localhost
+admin:
+  Id: 1
+  Name: super
+  AccountName: super
+  PassKey: super
+  Avatar: null
+  RoleId: 1

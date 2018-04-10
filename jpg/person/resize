@@ -1,0 +1,4 @@
+for image in ./*.jpg; do
+  convert $image -resize 300x400\> ./resized/$image
+  jpegoptim --strip-all -q --max=80 ./resized/$image
+done

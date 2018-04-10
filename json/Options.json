@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type": "STRING",
+    "name": "title",
+    "value": "Management Information System"
+  },
+  {
+    "id": 2,
+    "type": "STRING",
+    "name": "operator",
+    "value": "Permata Harapan Medical Technology"
+  }
+]

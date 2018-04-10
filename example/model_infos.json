@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Provinces"
+  },
+  {
+    "name": "Regencies"
+  },
+  {
+    "name": "Districts"
+  },
+  {
+    "name": "Villages"
+  },
+  {
+    "name": "Abilities"
+  },
+  {
+    "name": "Roles"
+  },
+  {
+    "name": "RoleAbilities"
+  },
+  {
+    "name": "Users"
+  },
+  {
+    "name": "EmployeeContractTypes"
+  },
+  {
+    "name": "EmployeeContracts"
+  },
+  {
+    "name": "JobTitles"
+  },
+  {
+    "name": "EducationAlmamaters"
+  },
+  {
+    "name": "Employees"
+  },
+  {
+    "name": "EmployeeAttendances"
+  },
+  {
+    "name": "EmployeeLeaveTypes"
+  },
+  {
+    "name": "EmployeeLicenseTypes"
+  },
+  {
+    "name": "EmployeeLicenses"
+  },
+  {
+    "name": "DocumentCategories"
+  },
+  {
+    "name": "Tags"
+  },
+  {
+    "name": "DocumentTags"
+  },
+  {
+    "name": "DocumentVersions"
+  },
+  {
+    "name": "Documents"
+  }
+]

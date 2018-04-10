@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Name": "super"
+  },
+  {
+    "Id": 2,
+    "Name": "administrator"
+  },
+  {
+    "Id": 3,
+    "Name": "guest"
+  }
+]

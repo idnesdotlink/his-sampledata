@@ -1,0 +1,434 @@
+[
+  {
+    "PersonId": 1,
+    "Address": "Baran Wetan",
+    "Rt": 1,
+    "Rw": 1,
+    "VillageCode": "3309080011",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 2,
+    "Address": "Perumahan Pelita",
+    "Rt": 2,
+    "Rw": 14,
+    "VillageCode": "3313090009",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 3,
+    "Address": "Saripan",
+    "Rt": 2,
+    "Rw": 12,
+    "VillageCode": "3311120003",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 4,
+    "Address": "Jl. Brotoseno 3 No.1, Grogolan",
+    "Rt": 1,
+    "Rw": 5,
+    "VillageCode": "3311120007",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 5,
+    "Address": "Jl. Antariksa 3, No.69, Ngoresan",
+    "Rt": 3,
+    "Rw": 17,
+    "VillageCode": "3372040010",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 6,
+    "Address": "Komp. Permata Cimanggu Blok D, No.10",
+    "Rt": 8,
+    "Rw": 7,
+    "VillageCode": "3271060005",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 6,
+    "Address": "Jl. Kepodang 1 No.1",
+    "Rt": null,
+    "Rw": null,
+    "VillageCode": "3372050009",
+    "Type": "Postal"
+  },
+  {
+    "PersonId": 7,
+    "Address": "Jl. Siwalan 3 No.24",
+    "Rt": 2,
+    "Rw": 14,
+    "VillageCode": "3372010009",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 8,
+    "Address": "Griyan",
+    "Rt": 2,
+    "Rw": 1,
+    "VillageCode": "3313120010",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 9,
+    "Address": "Tegal Asri",
+    "Rt": 1,
+    "Rw": 22,
+    "VillageCode": "3372050012",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 10,
+    "Address": "Karanglo",
+    "Rt": 1,
+    "Rw": 2,
+    "VillageCode": "3311110012",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 11,
+    "Address": "Jl. Flores No.2",
+    "Rt": 2,
+    "Rw": 1,
+    "VillageCode": "3372030007",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 12,
+    "Address": "Jl. Mangesti Raya",
+    "Rt": 1,
+    "Rw": 3,
+    "VillageCode": "3311100013",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 13,
+    "Address": "Griyan",
+    "Rt": 4,
+    "Rw": 1,
+    "VillageCode": "3313120010",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 14,
+    "Address": "Jl. Duku Baru No.24",
+    "Rt": 3,
+    "Rw": 12,
+    "VillageCode": "3372010009",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 15,
+    "Address": "Jl. Duku Baru No.24",
+    "Rt": 3,
+    "Rw": 12,
+    "VillageCode": "3372010009",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 16,
+    "Address": "Dung Padas",
+    "Rt": 1,
+    "Rw": 6,
+    "VillageCode": "3312010014",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 17,
+    "Address": "Jl. Siwalan Raya No.35",
+    "Rt": 2,
+    "Rw": 14,
+    "VillageCode": "3372010009",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 18,
+    "Address": "",
+    "Rt": 2,
+    "Rw": 1,
+    "VillageCode": "3372050013",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 19,
+    "Address": "Semanggi",
+    "Rt": 1,
+    "Rw": 6,
+    "VillageCode": "3501010003",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 20,
+    "Address": "Pilangan",
+    "Rt": 2,
+    "Rw": 6,
+    "VillageCode": "3313120010",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 21,
+    "Address": "Bentak",
+    "Rt": 7,
+    "Rw": null,
+    "VillageCode": "3314010008",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 22,
+    "Address": "Tegal Keputren",
+    "Rt": 3,
+    "Rw": 5,
+    "VillageCode": "3372010001",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 23,
+    "Address": "Perumahan Queen Garden IV Blok H 19",
+    "Rt": null,
+    "Rw": null,
+    "VillageCode": "3311100012",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 24,
+    "Address": "Jl. Tangkuban Perahu, Villa Palem Mas No.B2",
+    "Rt": null,
+    "Rw": null,
+    "VillageCode": "3372040011",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 25,
+    "Address": "Klamongan",
+    "Rt": 2,
+    "Rw": 8,
+    "VillageCode": "3313120001",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 26,
+    "Address": "Buntit",
+    "Rt": 26,
+    "Rw": 4,
+    "VillageCode": "3314060001",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 27,
+    "Address": "Brajan",
+    "Rt": 1,
+    "Rw": 8,
+    "VillageCode": "3309110010",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 28,
+    "Address": "Perumahan Permata Puri 2 Blok A No.6",
+    "Rt": null,
+    "Rw": null,
+    "VillageCode": "3313120006",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 29,
+    "Address": "Baron Gede",
+    "Rt": 2,
+    "Rw": 11,
+    "VillageCode": "3372010004",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 30,
+    "Address": "Branjangan",
+    "Rt": 2,
+    "Rw": 5,
+    "VillageCode": "3310020015",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 31,
+    "Address": "Kandang Sapi",
+    "Rt": 2,
+    "Rw": 34,
+    "VillageCode": "3372040010",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 32,
+    "Address": "No: 465",
+    "Rt": 12,
+    "Rw": 14,
+    "VillageCode": "3309090005",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 33,
+    "Address": "Thekil",
+    "Rt": 2,
+    "Rw": 5,
+    "VillageCode": "3501020002",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 34,
+    "Address": "Kaliniti",
+    "Rt": 2,
+    "Rw": 4,
+    "VillageCode": "3311100011",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 35,
+    "Address": "Kalitambak",
+    "Rt": 2,
+    "Rw": 9,
+    "VillageCode": "3306060022",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 36,
+    "Address": "Wonorejo",
+    "Rt": 4,
+    "Rw": 11,
+    "VillageCode": "3313130001",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 37,
+    "Address": "Dolon",
+    "Rt": 1,
+    "Rw": 7,
+    "VillageCode": "3310040009",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 38,
+    "Address": "",
+    "Rt": 2,
+    "Rw": 1,
+    "VillageCode": "3372050013",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 39,
+    "Address": "Perum Griya Kertonatan",
+    "Rt": 5,
+    "Rw": 4,
+    "VillageCode": "3311120008",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 40,
+    "Address": "Jl. Siwalan 3 No.20",
+    "Rt": 2,
+    "Rw": 14,
+    "VillageCode": "3372010009",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 41,
+    "Address": "Tanduk",
+    "Rt": 5,
+    "Rw": 2,
+    "VillageCode": "3309020003",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 42,
+    "Address": "Talang",
+    "Rt": 7,
+    "Rw": 2,
+    "VillageCode": "3313100010",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 43,
+    "Address": "Kandangsapi",
+    "Rt": 2,
+    "Rw": 34,
+    "VillageCode": "3372040010",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 44,
+    "Address": "Nangsri Kidul",
+    "Rt": 3,
+    "Rw": 1,
+    "VillageCode": "3313140002",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 45,
+    "Address": "Bangun Asri",
+    "Rt": 3,
+    "Rw": 2,
+    "VillageCode": "3311030007",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 46,
+    "Address": "Bulu",
+    "Rt": 4,
+    "Rw": null,
+    "VillageCode": "3314140005",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 47,
+    "Address": "Pandanrejo",
+    "Rt": 2,
+    "Rw": 16,
+    "VillageCode": "3313140007",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 48,
+    "Address": "Jetis",
+    "Rt": 1,
+    "Rw": 3,
+    "VillageCode": "3311010010",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 49,
+    "Address": "Sanggrahan",
+    "Rt": 4,
+    "Rw": 5,
+    "VillageCode": "3372010007",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 50,
+    "Address": "Gadingan",
+    "Rt": 3,
+    "Rw": 11,
+    "VillageCode": "3311060011",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 51,
+    "Address": "Perumahan Sri Sejahtera Gg.1 No.5, Kanep",
+    "Rt": 5,
+    "Rw": 9,
+    "VillageCode": "3311040012",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 52,
+    "Address": "Banaran",
+    "Rt": 19,
+    "Rw": 5,
+    "VillageCode": "3314090001",
+    "Type": "Official"
+  },
+  {
+    "PersonId": 53,
+    "Address": "Jl. Minapadi No.12",
+    "Rt": 5,
+    "Rw": 11,
+    "VillageCode": "3372050011",
+    "Type": "Official"
+  }
+]

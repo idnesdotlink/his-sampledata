@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "parent_id": 0,
+    "text": "Manajemen"
+  },
+  {
+    "id": 2,
+    "parent_id": 0,
+    "text": "Medis"
+  },
+  {
+    "id": 3,
+    "parent_id": 0,
+    "text": "Perawat"
+  },
+  {
+    "id": 4,
+    "parent_id": 1,
+    "text": "Pelayanan Kefarmasian dan Penggunaan Obat"
+  },
+  {
+    "id": 5,
+    "parent_id": 1,
+    "text": "Peningkatan Mutu dan Keselamatan Pasien"
+  },
+  {
+    "id": 6,
+    "parent_id": 1,
+    "text": "Tata Kelola Rumah Sakit"
+  },
+  {
+    "id": 7,
+    "parent_id": 1,
+    "text": "Manajemen Fasilitas dan Keselamatan"
+  },
+  {
+    "id": 8,
+    "parent_id": 1,
+    "text": "Kompetensi dan Kewenangan Staf"
+  },
+  {
+    "id": 9,
+    "parent_id": 2,
+    "text": "Akses Ke RS dan Kontinuitas"
+  },
+  {
+    "id": 10,
+    "parent_id": 2,
+    "text": "Asesmen Pasien"
+  },
+  {
+    "id": 11,
+    "parent_id": 2,
+    "text": "Pelayanan Asuhan Pasien"
+  },
+  {
+    "id": 12,
+    "parent_id": 2,
+    "text": "Pelayanan Anestesi dan Bedah"
+  },
+  {
+    "id": 13,
+    "parent_id": 2,
+    "text": "Menurunkan Angka Kematian Ibu dan Bayi"
+  },
+  {
+    "id": 14,
+    "parent_id": 2,
+    "text": "Menurunkan Angka Kesakitan HIV/AIDS"
+  },
+  {
+    "id": 15,
+    "parent_id": 2,
+    "text": "Menurunkan Angka Kesakitan TB"
+  },
+  {
+    "id": 16,
+    "parent_id": 2,
+    "text": "Pengendalian Resistensi Anti Mikroba"
+  },
+  {
+    "id": 17,
+    "parent_id": 2,
+    "text": "Pelayanan Geriatri"
+  },
+  {
+    "id": 18,
+    "parent_id": 3,
+    "text": "Hak Pasien dan Keluarga"
+  },
+  {
+    "id": 19,
+    "parent_id": 3,
+    "text": "Manajemen Komunikasi dan Edukasi"
+  },
+  {
+    "id": 20,
+    "parent_id": 3,
+    "text": "Pencegahan dan Pengendalian Infeksi"
+  },
+  {
+    "id": 21,
+    "parent_id": 3,
+    "text": "Sasaran Keselamatan Pasien"
+  },
+  {
+    "id": 22,
+    "parent_id": 3,
+    "text": "Manajemen Informasi dan Rekam Medis"
+  },
+  {
+    "id": 23,
+    "parent_id": 9,
+    "text": "Proses Penerimaan Pasien Ke Rumah Sakit"
+  },
+  {
+    "id": 24,
+    "parent_id": 9,
+    "text": "Proses Penerimaan Pasien Rawat Inap dan Pendaftaran Pasien Rawat Jalan"
+  },
+  {
+    "id": 25,
+    "parent_id": 9,
+    "text": "Kesinambungan Pelayanan"
+  },
+  {
+    "id": 26,
+    "parent_id": 9,
+    "text": "Pemulangan Dari Rumah Sakit dan Tindak Lanjut"
+  },
+  {
+    "id": 27,
+    "parent_id": 23,
+    "text": "Pasien dengan kebutuhan darurat"
+  },
+  {
+    "id": 28,
+    "parent_id": 23,
+    "text": "Proses Admisi Pasien Rawat Inap"
+  },
+  {
+    "id": 29,
+    "parent_id": 23,
+    "text": "Kebutuhan Klinis Pasien"
+  },
+  {
+    "id": 30,
+    "parent_id": 24,
+    "text": "Pendaftaran Pasien Rawat Jalan dan Rawat Inap"
+  },
+  {
+    "id": 31,
+    "parent_id": 24,
+    "text": "Penerimaan Langsung Dari Unit Darurat Ke Unit Rawat Inap"
+  },
+  {
+    "id": 32,
+    "parent_id": 24,
+    "text": "Menahan Pasien untuk Observasi"
+  },
+  {
+    "id": 33,
+    "parent_id": 21,
+    "text": "Mengindentifikasi Pasien dengan Benar"
+  },
+  {
+    "id": 34,
+    "parent_id": 21,
+    "text": "Meningkatkan Komunikasi yang Efektif"
+  },
+  {
+    "id": 35,
+    "parent_id": 21,
+    "text": "Meningkatkan Keamanan Obat Obatan Yang Harus Diwaspadai"
+  },
+  {
+    "id": 36,
+    "parent_id": 21,
+    "text": "Memastikan Lokasi, Prosedur dan Pasien Pembedahan Yang Benar"
+  },
+  {
+    "id": 37,
+    "parent_id": 21,
+    "text": "Mengurangi Resiko Infeksi Terkait Pelayanan Kesehatan"
+  },
+  {
+    "id": 38,
+    "parent_id": 21,
+    "text": "Mengurangi Resiko Cedera Pasien Akibat Terjatuh"
+  }
+]

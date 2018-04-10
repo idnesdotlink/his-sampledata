@@ -1,0 +1,110 @@
+[
+  {
+    "PersonId" : 52,
+    "LicenseTypeId": 6,
+    "Number": "449/0061/L-09/SIK-P/I/2017",
+    "DueDate": "2020-06-01"
+  },
+  {
+    "PersonId" : 52,
+    "LicenseTypeId": 12,
+    "Number": "14-01-7-2-1-15-1089697",
+    "DueDate": null
+  },
+  {
+    "PersonId" : 15,
+    "LicenseTypeId": 7,
+    "Number": "449.2/040/SIKRM/2015",
+    "DueDate": "2019-02-14"
+  },
+  {
+    "PersonId" : 15,
+    "LicenseTypeId": 11,
+    "Number": "14 10 5 2 1 14-0748158",
+    "DueDate": null
+  },
+  {
+    "PersonId": 30,
+    "LicenseTypeId": 9,
+    "Number": "19920315/SIPA_33.72/2016/2081",
+    "DueDate": "2020-03-15"
+  },
+  {
+    "PersonId": 30,
+    "LicenseTypeId": 10,
+    "Number": "19920315/STRA-UAD/2015/241161",
+    "DueDate": "2020-03-15"
+  },
+  {
+    "PersonId": 29,
+    "LicenseTypeId": 6,
+    "Number": "449/0063/L-09/SIK-P/I/2016",
+    "DueDate": "2019-01-14"
+  },
+  {
+    "PersonId": 29,
+    "LicenseTypeId": 12,
+    "Number": "14-01-5-2-1-15-1062103",
+    "DueDate": "2019-01-14"
+  },
+  {
+    "PersonId": 9,
+    "LicenseTypeId": 5,
+    "Number": "449/0056/L-11/SIK-B/I/2017",
+    "DueDate": "2019-05-20"
+  },
+  {
+    "PersonId": 9,
+    "LicenseTypeId": 13,
+    "Number": "14-02-5-2-1-14-0848676",
+    "DueDate": null
+  },
+  {
+    "PersonId": 12,
+    "LicenseTypeId": 4,
+    "Number": "19951118/SIKTTK_33.72/2014/2081",
+    "DueDate": "2018-11-18"
+  },
+  {
+    "PersonId": 12,
+    "LicenseTypeId": 3,
+    "Number": "19951118/STRTTK-332013/212499",
+    "DueDate": "2018-11-18"
+  },
+  {
+    "PersonId": 1,
+    "LicenseTypeId": 6,
+    "Number": "449/1845/L-09/SIK-P/XI/2017",
+    "DueDate": "2018-11-30"
+  },
+  {
+    "PersonId": 1,
+    "LicenseTypeId": 12,
+    "Number": "1329/MTKP JATENG/S.KET/IX/2017",
+    "DueDate": null
+  },
+  {
+    "PersonId": 21,
+    "LicenseTypeId": 6,
+    "Number": "449/1843/L-09/SIK-P/XI/2017",
+    "DueDate": "2018-11-30"
+  },
+  {
+    "PersonId": 21,
+    "LicenseTypeId": 12,
+    "Number": "1328/MTKP JATENG/S.KET/IX/2017",
+    "DueDate": null
+  },
+  {
+    "PersonId": 2,
+    "LicenseTypeId": 6,
+    "Number": "449/1844/L-09/SIK-P/XI/2017",
+    "DueDate": "2018-11-30"
+  },
+  {
+    "PersonId": 2,
+    "LicenseTypeId": 12,
+    "Number": "1327/MTKP JATENG/S.KET/IX/2017",
+    "DueDate": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Cuti Semester",
+    "maximum_duration": 6
+  },
+  {
+    "title": "Sakit",
+    "maximum_duration": null
+  },
+  {
+    "title": "Cuti Melahirkan",
+    "maximum_duration": null
+  },
+  {
+    "title": "Berkabung",
+    "maximum_duration": null
+  },
+  {
+    "title": "Izin",
+    "maximum_duration": null
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Title": "Kontrak 3 Bulan",
+    "Duration": 3,
+    "Unit": "Month"
+  },
+  {
+    "Title": "Kontrak 1 Tahun",
+    "Duration": 1,
+    "Unit": "Year"    
+  }
+]
