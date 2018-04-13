@@ -1,54 +1,67 @@
 [
   {
     "Id": 1,
-    "Title": "Surat Izin Praktek / Surat Tanda Registrasi"
+    "Title": "Surat Izin Praktek Dokter/ Surat Tanda Registrasi Dokter",
+    "JobTitleId": 9
   },
   {
     "Id": 2,
-    "Title": "Surat Izin Praktek Dokter / Dokter Gigi"
+    "Title": "Surat Izin Praktek Dokter / Dokter Gigi",
+    "JobTitleId": 9
   },
   {
     "Id": 3,
-    "Title": "Surat Tanda Registrasi Tenaga Teknis Kefarmasian"
+    "Title": "Surat Tanda Registrasi Tenaga Teknis Kefarmasian",
+    "JobTitleId": 12
   },
   {
     "Id": 4,
-    "Title": "Surat Izin Kerja Tenaga Teknis Kefarmasian"
+    "Title": "Surat Izin Kerja Tenaga Teknis Kefarmasian",
+    "JobTitleId": 12
   },
   {
     "Id": 5,
-    "Title": "Surat Izin Kerja Bidan"
+    "Title": "Surat Izin Kerja Bidan",
+    "JobTitleId": 8
   },
   {
     "Id": 6,
-    "Title": "Surat Izin Kerja Perawat"
+    "Title": "Surat Izin Kerja Perawat",
+    "JobTitleId": 7
   },
   {
     "Id": 7,
-    "Title": "Surat Izin Kerja Perekam Medis"
+    "Title": "Surat Izin Kerja Perekam Medis",
+    "JobTitleId": 3
   },
   {
     "Id": 8,
-    "Title": "Surat Izin Mengemudi"
+    "Title": "Surat Izin Mengemudi",
+    "JobTitleId": 22
   },
   {
     "Id": 9,
-    "Title": "Surat Izin Praktek Apoteker"
+    "Title": "Surat Izin Praktek Apoteker",
+    "JobTitleId": 18
   },
   {
     "Id": 10,
-    "Title": "Surat Tanda Registrasi Apoteker"
+    "Title": "Surat Tanda Registrasi Apoteker",
+    "JobTitleId": 18
   },
   {
-      "Id": 11,
-      "Title": "Surat Tanda Registrasi Perekam Medis"
+    "Id": 11,
+    "Title": "Surat Tanda Registrasi Perekam Medis",
+    "JobTitleId": 3
   },
   {
-      "Id": 12,
-      "Title": "Surat Izin Perawat / Surat Tanda Registrasi"
+    "Id": 12,
+    "Title": "Surat Izin Perawat / Surat Tanda Registrasi",
+    "JobTitleId": 7
   },
   {
-      "Id": 13,
-      "Title": "Surat Izin Bidan / Surat Tanda Registrasi"
+    "Id": 13,
+    "Title": "Surat Izin Bidan / Surat Tanda Registrasi",
+    "JobTitleId": 8
   }
 ]
